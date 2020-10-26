@@ -2,7 +2,7 @@ var request = require('request')
 
 const verifyotp = () => {
     const otpValue = ({
-        'otp': 1896,
+        'otp': 1754,
         'challenge': 'abcd'
     })
     var clientServerOptions = {
